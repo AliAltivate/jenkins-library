@@ -1,6 +1,6 @@
 module github.com/SAP/jenkins-library
 
-go 1.26.3
+go 1.26.5
 
 replace github.com/imdario/mergo => github.com/imdario/mergo v0.3.16
 
@@ -17,7 +17,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.106.0
 	github.com/bmatcuk/doublestar v1.3.4
 	github.com/bndr/gojenkins v1.2.0
-	github.com/buildpacks/lifecycle v0.20.19
+	github.com/buildpacks/lifecycle v0.21.14
 	github.com/cdevents/sdk-go v0.4.1
 	github.com/cloudevents/sdk-go/v2 v2.15.2
 	github.com/docker/cli v29.6.2+incompatible
